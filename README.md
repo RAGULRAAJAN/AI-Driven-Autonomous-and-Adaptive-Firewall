@@ -40,7 +40,7 @@ Unlike traditional systems, this firewall acts as an "intelligent security analy
 ![Dashboard UI](User%20End%20Workflow.jpg)
 
 ### Attack Detection Metrics
-* [cite_start]**Detection Accuracy:** High precision in distinguishing benign vs. malicious flows[cite: 37].
+**Detection Accuracy:** High precision in distinguishing benign vs. malicious flows.
 * **Response Time:** Significantly reduced reaction time compared to manual administration.
 
 ## Results and Impact
